@@ -1,6 +1,12 @@
+<p align="center"><img src="https://github.com/shay79il/shay79il/blob/main/need-for-speed.gif" width="400"/></p>
+
+
 ### Hi there 👋
 
-<p align="center"><img src="https://github.com/shay79il/shay79il/blob/main/need-for-speed.gif" width="200"/></p>
+<a href="https://www.linkedin.com/in/shay79il"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+
+
 
 
 
