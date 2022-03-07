@@ -28,7 +28,7 @@
 
 
 - 🔭 I’m currently working on getting my first DevOps position 
-- 🌱 I’m currently learning K8S & Helm
+- 🌱 I’m currently mastering K8S & Helm
 - 👯 I’m looking to collaborate on DevOps issues
 - 💬 Ask me about anything
 - 📫 How to reach me: With a smile
