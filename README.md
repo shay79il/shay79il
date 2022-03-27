@@ -27,7 +27,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Vscode" alt="Vscode" width="40" height="40" height="40"/>&nbsp;
 
 
-- 🔭 I’m currently working on getting my first DevOps position 
+- 🔭 I’m currently working on getting my next AWS certification
 - 🌱 I’m currently mastering K8S & Helm
 - 👯 I’m looking to collaborate on DevOps issues
 - 💬 Ask me about anything
